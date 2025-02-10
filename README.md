@@ -1,6 +1,6 @@
-# Guttatim
+# Oympi
 
-Guttatim is a **decentralized, physical messaging system** where messages travel **without the need for the Internet or centralized servers**. Messages are not stored permanently but must be **physically transported** by users from one machine to another. This ensures **privacy, security, and resilience** in areas with no connectivity.
+Oympi is a **decentralized, physical messaging system** where messages travel **without the need for the Internet or centralized servers**. Messages are not stored permanently but must be **physically transported** by users from one machine to another. This ensures **privacy, security, and resilience** in areas with no connectivity.
 
 ## 🚀 How It Works
 
@@ -20,9 +20,9 @@ Guttatim is a **decentralized, physical messaging system** where messages travel
 
 ## 🛠 How to Use
 
-1. **Install & Run** Guttatim on any computer.  
+1. **Install & Run** Oympi on any computer.  
 2. **Check for messages** – If messages exist, pick them up or leave your own.  
-3. **Travel & Connect** to another computer with Guttatim.  
+3. **Travel & Connect** to another computer with Oympi.  
 4. **Drop messages** and check if you received any intended for you.  
 5. **Repeat the process** – The network grows as messages move!  
 
@@ -58,6 +58,6 @@ Guttatim is a **decentralized, physical messaging system** where messages travel
 
 ---
 
-🚀 **Guttatim – Messages that Travel, Drop by Drop.**  
+🚀 **Oympi – Messages that Travel, Drop by Drop.**  
 📧 Want to contribute? Open an issue or reach out!  
 
